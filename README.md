@@ -4,9 +4,9 @@
 
 ```
 
-![binary_kitty1](https://user-images.githubusercontent.com/77725643/206483121-1f390311-7b7d-4463-aa48-6425e1e863e5.png)
 
 
+![Mountain-Star-map](https://user-images.githubusercontent.com/77725643/206486124-b27c73b1-e6ae-4664-97ac-ff2497847659.jpg)
 
 
 
