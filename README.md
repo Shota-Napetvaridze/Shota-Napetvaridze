@@ -1,4 +1,4 @@
-### HELLO THERE 👋 I LIKE C0MPUTERS
+### HELLO THERE 👋 I'M SHOTA AKA WIZARD && I LIKE C0MPUTERS
 
 
 ![7f5](https://user-images.githubusercontent.com/77725643/206434406-f65dac39-9c03-48c5-84b4-619daf18c52b.gif)
