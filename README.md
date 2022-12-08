@@ -4,7 +4,7 @@
 
 ```
 
-<img src="https://warburg.sas.ac.uk/sites/default/files/styles/max_1300x1300/public/2021-07/MAGIC%20AND%20SCIENCE.jpg?itok=toe35sNR" class="centerAlign" style="width:150%">
+<img src="https://iphoneswallpapers.com/wp-content/uploads/2021/09/Mountain-Star-map.jpg" class="centerAlign" style="width:150%">
 
 
 <!--
