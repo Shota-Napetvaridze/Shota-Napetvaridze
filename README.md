@@ -5,8 +5,8 @@
 ```
 
 
+![mountain](https://user-images.githubusercontent.com/77725643/206899212-3e5dfc45-fb6a-4b75-9c6d-d529a20fa89d.jpg)
 
-![Mountain-Star-map](https://user-images.githubusercontent.com/77725643/206486124-b27c73b1-e6ae-4664-97ac-ff2497847659.jpg)
 
 
 
