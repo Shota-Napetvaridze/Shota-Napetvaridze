@@ -1,6 +1,6 @@
+![Mountain-Star-map](https://user-images.githubusercontent.com/77725643/212780672-532cc6fa-b810-4532-a557-336bdbbec86e.jpg)
 
 
-<img width="570" alt="Screenshot 2023-01-17 at 00 34 00" src="https://user-images.githubusercontent.com/77725643/212780590-ebc043c5-90e4-45eb-acf1-a57d7a1e60c6.png">
 
 
 <h3 align="left">Languages and Tools:</h3>
