@@ -1,4 +1,5 @@
-![Mountain-Star-map](https://user-images.githubusercontent.com/77725643/212780672-532cc6fa-b810-4532-a557-336bdbbec86e.jpg)
+
+![ezgif-5-074436cbb8](https://user-images.githubusercontent.com/77725643/214143848-2e9e4d33-0a9a-4ebf-9e47-ca8e258dc2ff.gif)
 
 
 
