@@ -1,7 +1,7 @@
 ![ezgif-5-0add21e49d](https://user-images.githubusercontent.com/77725643/214159716-a267b49b-0d90-45ea-8a7a-345d966fb2fa.gif)
 
 
-<a href="https://www.python.org">
+<a href="https://tryhackme.com/p/Wiz1101">
   <img src="https://tryhackme-badges.s3.amazonaws.com/Wiz1101.png" alt="TryHackMe">
 </a>
 
