@@ -4,6 +4,11 @@
 <a href="https://tryhackme.com/p/Wiz1101">
   <img src="https://tryhackme-badges.s3.amazonaws.com/Wiz1101.png" alt="TryHackMe">
 </a>
+<p align="right"><a href="https://app.hackthebox.com/profile/965168">
+  <img src="https://www.hackthebox.com/badge/image/965168" alt="HackTheBox">
+</a></p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
