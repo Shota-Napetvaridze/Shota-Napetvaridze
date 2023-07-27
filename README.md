@@ -3,10 +3,10 @@
 
 <a href="https://tryhackme.com/p/Wiz1101">
   <img src="https://tryhackme-badges.s3.amazonaws.com/Wiz1101.png" alt="TryHackMe">
-</a>
-<p align="right"><a href="https://app.hackthebox.com/profile/965168">
+</a><a href="https://app.hackthebox.com/profile/965168">
   <img src="https://www.hackthebox.com/badge/image/965168" alt="HackTheBox">
-</a></p>
+</a>
+
 
 
 
