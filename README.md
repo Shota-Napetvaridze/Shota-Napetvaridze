@@ -15,8 +15,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
- <img src="https://tryhackme-badges.s3.amazonaws.com/Wiz1101.png" alt="TryHackMe">
-
+ <script src="https://tryhackme.com/badge/1355558"></script>
 <!--
 **Shota-Napetvaridze/Shota-Napetvaridze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
