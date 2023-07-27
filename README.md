@@ -1,7 +1,7 @@
 ![ezgif-5-0add21e49d](https://user-images.githubusercontent.com/77725643/214159716-a267b49b-0d90-45ea-8a7a-345d966fb2fa.gif)
 
 
-
+ <img src="https://tryhackme-badges.s3.amazonaws.com/Wiz1101.png" alt="TryHackMe">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
@@ -15,7 +15,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
- <script src="https://tryhackme.com/badge/1355558"></script>
+
 <!--
 **Shota-Napetvaridze/Shota-Napetvaridze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
