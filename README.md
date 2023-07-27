@@ -1,11 +1,14 @@
 ![ezgif-5-0add21e49d](https://user-images.githubusercontent.com/77725643/214159716-a267b49b-0d90-45ea-8a7a-345d966fb2fa.gif)
 
 
-<a href="https://tryhackme.com/p/Wiz1101">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"><a href="https://tryhackme.com/p/Wiz1101">
   <img src="https://tryhackme-badges.s3.amazonaws.com/Wiz1101.png" alt="TryHackMe">
-</a><a href="https://app.hackthebox.com/profile/965168">
+</a> <a href="https://app.hackthebox.com/profile/965168">
   <img src="https://www.hackthebox.com/badge/image/965168" alt="HackTheBox">
 </a>
+</p>
+
 
 
 
