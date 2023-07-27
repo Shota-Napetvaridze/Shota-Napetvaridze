@@ -17,7 +17,6 @@
 
  <img src="https://tryhackme-badges.s3.amazonaws.com/Wiz1101.png" alt="TryHackMe">
 
-
 <!--
 **Shota-Napetvaridze/Shota-Napetvaridze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
