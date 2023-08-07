@@ -1,6 +1,6 @@
 ![ezgif com-video-to-gif (1)](https://github.com/Wiz1101/Wiz1101/assets/77725643/8f9cb5cf-2c73-4ca3-866b-11bfcd113697)
 
-
+P.S This is not an actual whoami command
 
 <p align="left"><a href="https://tryhackme.com/p/Wiz1101">
   <img src="https://tryhackme-badges.s3.amazonaws.com/Wiz1101.png" alt="TryHackMe">
