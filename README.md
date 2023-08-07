@@ -1,6 +1,5 @@
 ![whoami](https://github.com/Wiz1101/Wiz1101/assets/77725643/7742e622-d7ec-43f3-be97-845b8ed95caf)
 
-P.S. Don't panic. I have returned the actual 'whoami' to its place.
 <p align="left"><a href="https://tryhackme.com/p/Wiz1101">
   <img src="https://tryhackme-badges.s3.amazonaws.com/Wiz1101.png" alt="TryHackMe">
 </a> <a href="https://app.hackthebox.com/profile/965168">
