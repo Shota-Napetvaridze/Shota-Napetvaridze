@@ -1,4 +1,4 @@
-![ezgif com-video-to-gif (1)](https://github.com/Wiz1101/Wiz1101/assets/77725643/8f9cb5cf-2c73-4ca3-866b-11bfcd113697)
+![whoamiMac](https://github.com/Wiz1101/Wiz1101/assets/77725643/20199d54-9229-435f-8d92-95b1061ce161)
 
 P.S. Don't panic. I have returned the actual 'whoami' to its place.
 <p align="left"><a href="https://tryhackme.com/p/Wiz1101">
