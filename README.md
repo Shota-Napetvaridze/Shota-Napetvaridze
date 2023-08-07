@@ -23,7 +23,7 @@ Replace
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a> 
   <a href="https://www.gnu.org/software/bash" target="_blank" rel="noreferrer">
-    <img src="https://github.com/Wiz1101/Wiz1101/assets/77725643/e3c5a380-ef1a-4dce-9d68-8315c8341762" alt="bash" width="40"  height="40"/>
+    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/77725643/251433545-e3c5a380-ef1a-4dce-9d68-8315c8341762.png" alt="bash" width="40"  height="40"/>
   </a> 
   <a href="https://www.kali.org" target="_blank" rel="noreferrer">
     <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/77725643/251431495-ecbe0ad6-93a5-4e25-afd6-ee0b66ef9850.png" width="40"  alt="kali linux"      height="40"/>
@@ -41,10 +41,10 @@ Replace
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40"height="40"/>
   </a>
   <a href="https://www.wireshark.org" target="_blank" rel="noreferrer">
-    <img src="https://github.com/Wiz1101/Wiz1101/assets/77725643/726518c5-9c66-4599-bd93-30a88fe3c098" alt="wireshark" width="40" height="40"/>
+    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/77725643/251430529-726518c5-9c66-4599-bd93-30a88fe3c098.png" alt="wireshark" width="40" height="40"/>
   </a>
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-    <img src="https://github.com/Wiz1101/Wiz1101/assets/77725643/b327631b-68d2-4755-b124-a9bed57cc632" width="40" height="40"/>
+    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/77725643/251433280-b327631b-68d2-4755-b124-a9bed57cc632.png" alt="burpsuite" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
