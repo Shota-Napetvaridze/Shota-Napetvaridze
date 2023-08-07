@@ -1,4 +1,4 @@
-![whoamiMac](https://github.com/Wiz1101/Wiz1101/assets/77725643/20199d54-9229-435f-8d92-95b1061ce161)
+![whoami](https://github.com/Wiz1101/Wiz1101/assets/77725643/7742e622-d7ec-43f3-be97-845b8ed95caf)
 
 P.S. Don't panic. I have returned the actual 'whoami' to its place.
 <p align="left"><a href="https://tryhackme.com/p/Wiz1101">
