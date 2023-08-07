@@ -1,4 +1,4 @@
-![ezgif-5-0add21e49d](https://user-images.githubusercontent.com/77725643/214159716-a267b49b-0d90-45ea-8a7a-345d966fb2fa.gif)
+![ezgif com-video-to-gif](https://github.com/Wiz1101/Wiz1101/assets/77725643/af69f213-d302-46b1-82db-0160b8d91df0)
 
 
 
