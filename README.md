@@ -7,7 +7,7 @@ Replace
 
 
 <p align="left"><a href="https://tryhackme.com/p/Wiz1101">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Wiz1101.png?2" alt="TryHackMe">
+   <img src="https://tryhackme-badges.s3.amazonaws.com/Wiz1101.png" alt="TryHackMe">
 </a> 
 </a>
 </p>
