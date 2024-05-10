@@ -51,6 +51,10 @@ Replace
    <a href="https://nmap.org/" target="_blank" rel="noreferrer">
     <img src="https://nmap.org/images/sitelogo-nmap-software-llc.svg" alt="nmap" width="40" height="40"/>
   </a>
+   <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Wiz1101/Wiz1101/assets/77725643/566d6c55-3b5f-47e8-ac76-1824adf99972" alt="metasploit" width="40" height="40"/>
+  </a>
+
 </p>
 
 
