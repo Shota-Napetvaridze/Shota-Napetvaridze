@@ -30,9 +30,6 @@ Replace
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="40" height="40"/>
   </a>
-  <a href="https://www.kali.org" target="_blank" rel="noreferrer">
-    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/77725643/251431495-ecbe0ad6-93a5-4e25-afd6-ee0b66ef9850.png" width="40"  alt="kali linux"      height="40"/>
-  </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
