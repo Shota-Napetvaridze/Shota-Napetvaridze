@@ -48,8 +48,10 @@ Replace
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
     <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/77725643/251433280-b327631b-68d2-4755-b124-a9bed57cc632.png" alt="burpsuite" width="40" height="40"/>
   </a>
+   <a href="https://nmap.org/" target="_blank" rel="noreferrer">
+    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/77725643/251433280-b327631b-68d2-4755-b124-a9bed57cc632.png" alt="burpsuite" width="40" height="40"/>
+  </a>
 </p>
-
 
 
 <!--
