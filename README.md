@@ -1,5 +1,7 @@
-![whoami](https://github.com/Wiz1101/Wiz1101/assets/77725643/7742e622-d7ec-43f3-be97-845b8ed95caf)
-<!--
+![whoami](https://github.com/Wiz1101/Wiz1101/assets/77725643/07949b00-f08d-4564-9697-97f69c693e33)
+
+<!--!
+
 Replace
 ![whoamiMac](https://github.com/Wiz1101/Wiz1101/assets/77725643/ea9163bd-5b6a-4774-9c4c-7bd6683adcee)
 
